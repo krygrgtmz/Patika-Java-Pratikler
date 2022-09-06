@@ -1,2 +1,4 @@
 # Patika-Java-Pratikler
-patika için yazılmış basit java pratikleri
+
+[patika.dev/courses/java101](https://app.patika.dev/courses/java101)
+
